@@ -1,3 +1,3 @@
 # Cooli's Website Intro
 
-This is a intro that I built for the new website I am making! Click on the [link](spacesters.github.io/intro/)!
+This is a intro that I built for the new website I am making! Click on the [link](https://spacesters.github.io/Intro)!
